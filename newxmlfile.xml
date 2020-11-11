@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><Films>
+	<name>Cinema City</name>
+	<room>
+		<title>Spider-Man</title>
+        <time>12:30</time>
+		<year>2012</year>
+		<number>10</number>
+	</room>
+	<room>
+		<title>King-Kong</title>
+        <time>14:30</time>
+		<year>1999</year>
+		<number>12</number>
+    </room>
+	<room>
+		<title>Spectre</title>
+        <time>15:15</time>
+		<year>2015</year>
+		<number>14</number>
+	</room>
+</Films>
